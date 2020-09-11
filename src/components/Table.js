@@ -54,7 +54,7 @@ export default function Table(){
             <div class="metascore"><h6>97</h6></div>
           </td>
           <td>
-            <div class="metascore"><h6>95/h6></div>
+            <div class="metascore"><h6>95</h6></div>
           </td>
           <td>
             <div class="metascore"><h6>84</h6></div>
